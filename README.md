@@ -1,2 +1,0 @@
-# myfirstangular
-Created with CodeSandbox
